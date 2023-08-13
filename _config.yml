@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jie (Olivia) Wang"
 title_separator          : "-"
-name                     : &name "Olivia Wang"
+name                     : &name "Jie (Olivia) Wang"
 description              : &description "personal description"
 url                      : https://OliviaJieWang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
