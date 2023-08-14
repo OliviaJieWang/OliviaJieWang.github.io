@@ -14,7 +14,7 @@ About me
 
 I am a first-year master student at Tsinghua University, where I am fortunate to be advised by [Prof. Peng Yang](https://www.sigs.tsinghua.edu.cn/yp_en/main.htm) Recently, I am a visiting student at University of Washington, working with [Prof. Cynthia Chen](https://www.ce.washington.edu/facultyfinder/cynthia-chen).
 
-Previously, I graduated from Sun Yat-Sen University with a B.A. in June 2022. During my undergraduates years, I were fortunate to be advised by [Prof. Ming Cai](https://ise.sysu.edu.cn/teacher/teacher01/106479.htm).
+Previously, I graduated from Sun Yat-Sen University with a B.A. in June 2022. During my undergraduates years, I were fortunate to be advised by [Prof. Ming Cai](https://www.researchgate.net/profile/Ming-Cai-18).
 
 I am broadly interested in the applications of machine learning, decision and optimization of stochastic system, network analysis and so on.
 
