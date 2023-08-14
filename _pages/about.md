@@ -22,14 +22,14 @@ Links: [[CV]](files/CV.pdf)  [[My blog]](https://500px.com/p/wjie3210?view=photo
 
 Publication and working papers
 ======
-1. J. Wang, P. Yang, (2023). An approximate dynamic programming approach for multi-period production-delivery
+1. **J. Wang**, P. Yang, **(2023)**. An approximate dynamic programming approach for multi-period production-delivery
 scheduling of online orders with due dates
 [[PDF]](files/An approximate dynamic programming approach for IPDS of online orders with due dates.pdf)
 
-2. J. Wang, C. Xiong, and M. Cai (2022) Autonomous Transportation System collaboration mechanism based on Traffic
+2. **J. Wang**, C. Xiong, and M. Cai **(2022)** Autonomous Transportation System collaboration mechanism based on Traffic
 semantics: an implementation in Automated Vehicles Crossing an Intersection Scenario [[PDF]](files/Autonomous Transportation System collaboration mechanism based on Traffic semantics.pdf)
 
-3. J. Wang, Z. Cai, P. Yang, Y. Chen, B. Chen (2022), An Advanced Control Strategy for Connected Autonomous Vehicles
+3. **J. Wang**, Z. Cai, P. Yang, Y. Chen, B. Chen **(2022)**, An Advanced Control Strategy for Connected Autonomous Vehicles
 Based on Micro Simulation Models at Multiple Intersections [[PDF]](files/An advanced control strategy for connected autonomous
 vehicles based on Micro simulation models at multiple
 intersections.pdf)
