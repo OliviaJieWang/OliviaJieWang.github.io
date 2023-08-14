@@ -18,7 +18,7 @@ Previously, I graduated from Sun Yat-Sen University with a B.A. in June 2022. Du
 
 I am broadly interested in the applications of machine learning, decision and optimization of stochastic system, network analysis and so on.
 
-Links:[pdf](files/Autonomous Transportation System collaboration mechanism based on Traffic semantics.pdf)
+Links:[CV](files/Autonomous Transportation System collaboration mechanism based on Traffic semantics.pdf)[LinkedIn](https://www.linkedin.com/in/jie-wang-980914221/)
 
 Publication and working papers:
 1. 
