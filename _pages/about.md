@@ -18,7 +18,7 @@ Previously, I graduated from Sun Yat-Sen University with a B.A. in June 2022. Du
 
 I am broadly interested in the applications of machine learning, decision and optimization of stochastic system, network analysis and so on.
 
-Links:[CV](files/Autonomous Transportation System collaboration mechanism based on Traffic semantics.pdf)[LinkedIn](https://www.linkedin.com/in/jie-wang-980914221/)
+Links:[CV](files/CV.pdf)[LinkedIn](https://www.linkedin.com/in/jie-wang-980914221/)
 
 Publication and working papers:
 1. 
@@ -27,6 +27,8 @@ Publication and working papers:
 2.[pdf](files/An advanced control strategy for connected autonomous
 vehicles based on Micro simulation models at multiple
 intersections.pdf)
+
+
 <!--
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
