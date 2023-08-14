@@ -20,6 +20,10 @@ I am broadly interested in the applications of machine learning, decision and op
 
 Links:[pdf](files/Autonomous Transportation System collaboration mechanism based on Traffic semantics.pdf)
 
+Publication and working papers:
+1. 
+[pdf](files/An approximate dynamic programming approach for IPDS of online orders with due dates.pdf)
+
 
 <!--
 
