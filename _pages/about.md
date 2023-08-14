@@ -18,7 +18,7 @@ Previously, I graduated from Sun Yat-Sen University with a B.A. in June 2022. Du
 
 I am broadly interested in the applications of machine learning, decision and optimization of stochastic system, network analysis and so on.
 
-Links: [[CV]](files/CV.pdf)  [[LinkedIn]](https://www.linkedin.com/in/jie-wang-980914221/)
+Links: [[CV]](files/CV.pdf)  [[My blog]](https://500px.com/p/wjie3210?view=photos)  [[LinkedIn]](https://www.linkedin.com/in/jie-wang-980914221/)
 
 Publication and working papers
 ======
