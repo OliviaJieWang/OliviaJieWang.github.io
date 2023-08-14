@@ -12,13 +12,13 @@ redirect_from:
 About me
 ======
 
-I am a first-year master student at Tsinghua University, where I am fortunate to be advised by [Prof. Peng Yang](https://www.sigs.tsinghua.edu.cn/yp/main.htm) Recently, I am a visiting student at University of Washington, working with [Prof. Cynthia Chen](https://www.ce.washington.edu/facultyfinder/cynthia-chen).
+I am a first-year master student at Tsinghua University, where I am fortunate to be advised by [Prof. Peng Yang](https://www.sigs.tsinghua.edu.cn/yp_en/main.htm) Recently, I am a visiting student at University of Washington, working with [Prof. Cynthia Chen](https://www.ce.washington.edu/facultyfinder/cynthia-chen).
 
 Previously, I graduated from Sun Yat-Sen University with a B.A. in June 2022. During my undergraduates years, I were fortunate to be advised by [Prof. Ming Cai](https://ise.sysu.edu.cn/teacher/teacher01/106479.htm).
 
 I am broadly interested in the applications of machine learning, decision and optimization of stochastic system, network analysis and so on.
 
-Links:[pdf](https://github.com/OliviaJieWang/OliviaJieWang.github.io/blob/20ca0065aefd18365e6a98058c23cc90588ed7c9/files/Autonomous%20Transportation%20System%20collaboration%20mechanism%20based%20on%20Traffic%20semantics.pdf)
+Links:[pdf](files/Autonomous Transportation System collaboration mechanism based on Traffic semantics.pdf)
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
