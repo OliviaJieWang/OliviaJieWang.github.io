@@ -12,13 +12,15 @@ redirect_from:
 About me
 ======
 
-I am a first-year master student at Tsinghua University, where I am fortunate to be advised by [Prof. Peng Yang](https://www.sigs.tsinghua.edu.cn/yp_en/main.htm) Recently, I am a visiting student at University of Washington, working with [Prof. Cynthia Chen](https://www.ce.washington.edu/facultyfinder/cynthia-chen).
+I am a first-year master student at Tsinghua University, where I am fortunate to be advised by [Prof. Peng Yang](https://www.sigs.tsinghua.edu.cn/yp_en/main.htm) Recently, I am a visiting student at University of Washington.
+
+<!--working with [Prof. Cynthia Chen](https://www.ce.washington.edu/facultyfinder/cynthia-chen).-->
 
 Previously, I graduated from Sun Yat-Sen University with a Bachelor degree in June 2022. During my undergraduate years, I was advised by [Prof. Ming Cai](https://www.researchgate.net/profile/Ming-Cai-18).
 
 I am broadly interested in the applications of machine learning, decision and optimization of stochastic system, markov decision process and network analysis, etc.
 
-Links: [[CV]](files/CV.pdf)  [[My blog]](https://500px.com/p/wjie3210?view=photos)  [[LinkedIn]](https://www.linkedin.com/in/jie-wang-980914221/)
+Links:  [[My blog]](https://500px.com/p/wjie3210?view=photos)  [[LinkedIn]](https://www.linkedin.com/in/jie-wang-980914221/)
 
 Publication and working papers
 ======
