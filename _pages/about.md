@@ -22,9 +22,9 @@ I am broadly interested in the applications of machine learning, decision and op
 
 Links:  [[My blog]](https://500px.com/p/wjie3210?view=photos)  [[LinkedIn]](https://www.linkedin.com/in/jie-wang-980914221/)
 
-Publication and working papers
+Publications and working papers
 ======
-1. **J. Wang**, Z. Li, C. Chen **(2023)**. The potential of considering social capital in emergency resource allocation
+1. **J. Wang**, Z. Li, C. Chen **(2023)**. The potential of considering social capital in emergency resource allocation [Working paper]
 
 2. **J. Wang**, P. Yang, **(2023)**. An approximate dynamic programming approach for multi-period production-delivery
 scheduling of online orders with due dates
