@@ -12,7 +12,7 @@ redirect_from:
 About me
 ======
 
-I am a first-year master student at Tsinghua University, where I am fortunate to be advised by [Prof. Peng Yang](https://www.sigs.tsinghua.edu.cn/yp_en/main.htm). Recently, I am a visiting student at University of Washington.
+I am a first-year master student at Tsinghua University, where I am fortunate to be advised by [Prof. Peng Yang](https://www.sigs.tsinghua.edu.cn/yp_en/main.htm). Recently, I am a visiting student at University of Washington, working with [Prof. Cynthia Chen](https://www.ce.washington.edu/facultyfinder/cynthia-chen).
 
 <!--working with [Prof. Cynthia Chen](https://www.ce.washington.edu/facultyfinder/cynthia-chen).-->
 
