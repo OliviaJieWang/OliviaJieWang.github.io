@@ -24,17 +24,19 @@ Links:  [[My blog]](https://500px.com/p/wjie3210?view=photos)  [[LinkedIn]](http
 
 Publication and working papers
 ======
-1. **J. Wang**, P. Yang, **(2023)**. An approximate dynamic programming approach for multi-period production-delivery
+1. **J. Wang**, Z. Li, C. Chen **(2023)**. The potential of considering social capital in emergency resource allocation
+
+2. **J. Wang**, P. Yang, **(2023)**. An approximate dynamic programming approach for multi-period production-delivery
 scheduling of online orders with due dates
 [[PDF]](files/An approximate dynamic programming approach for IPDS of online orders with due dates.pdf)
 
-2. **J. Wang**, Q. Wang, P. Yang, J. Yu, L. Xiao, **(2023)**. Energy consumption analysis and optimization of cold stores considering differential electricity price
+3. **J. Wang**, Q. Wang, P. Yang, J. Yu, L. Xiao, **(2023)**. Energy consumption analysis and optimization of cold stores considering differential electricity price
 [[PDF]](files/Energy consumption analysis and optimization of cold stores.pdf)
 
-3. **J. Wang**, C. Xiong, and M. Cai **(2022)** Autonomous Transportation System collaboration mechanism based on Traffic
+4. **J. Wang**, C. Xiong, and M. Cai **(2022)** Autonomous Transportation System collaboration mechanism based on Traffic
 semantics: an implementation in Automated Vehicles Crossing an Intersection Scenario [[PDF]](files/Autonomous Transportation System collaboration mechanism based on Traffic semantics.pdf)
 
-4. **J. Wang**, Z. Cai, P. Yang, Y. Chen, B. Chen **(2022)**, An Advanced Control Strategy for Connected Autonomous Vehicles
+5. **J. Wang**, Z. Cai, P. Yang, Y. Chen, B. Chen **(2022)**, An Advanced Control Strategy for Connected Autonomous Vehicles
 Based on Micro Simulation Models at Multiple Intersections [[PDF]](files/An advanced control strategy for connected autonomous
 vehicles based on Micro simulation models at multiple
 intersections.pdf)
