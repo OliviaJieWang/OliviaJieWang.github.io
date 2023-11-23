@@ -37,7 +37,8 @@ scheduling of online orders with due dates
 semantics: an implementation in Automated Vehicles Crossing an Intersection Scenario [[PDF]](files/Autonomous Transportation System collaboration mechanism based on Traffic semantics.pdf)
 
 5. **J. Wang**, Z. Cai, P. Yang, Y. Chen, B. Chen **(2022)**, An Advanced Control Strategy for Connected Autonomous Vehicles
-Based on Micro Simulation Models at Multiple Intersections [[PDF]](files/An advanced control strategy for connected autonomous
+Based on Micro Simulation Models at Multiple Intersections  [Published in Physica A: Statistical Mechanics and its
+Applications] [[PDF]](files/An advanced control strategy for connected autonomous
 vehicles based on Micro simulation models at multiple
 intersections.pdf)
 
