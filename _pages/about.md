@@ -12,7 +12,7 @@ redirect_from:
 About me
 ======
 
-I am a first-year master student at Tsinghua University, where I am fortunate to be advised by [Prof. Peng Yang](https://www.sigs.tsinghua.edu.cn/yp_en/main.htm). Recently, I am a visiting student at University of Washington, working with [Prof. Cynthia Chen](https://www.ce.washington.edu/facultyfinder/cynthia-chen).
+I am a second-year master student at Tsinghua University, where I am fortunate to be advised by [Prof. Peng Yang](https://www.sigs.tsinghua.edu.cn/yp_en/main.htm). Recently, I am a visiting student at University of Washington, working with [Prof. Cynthia Chen](https://www.ce.washington.edu/facultyfinder/cynthia-chen).
 
 <!--working with [Prof. Cynthia Chen](https://www.ce.washington.edu/facultyfinder/cynthia-chen).-->
 
@@ -22,7 +22,7 @@ I am broadly interested in the applications of machine learning, decision and op
 
 Links:  [[My blog]](https://500px.com/p/wjie3210?view=photos)  [[LinkedIn]](https://www.linkedin.com/in/jie-wang-980914221/)
 
-Publications and working papers
+Publications and Preprints
 ======
 1. **J. Wang**, Z. Li, C. Chen **(2023)**. The potential of considering social capital in emergency resource allocation [Working paper]
 
@@ -33,7 +33,7 @@ scheduling of online orders with due dates
 3. **J. Wang**, Q. Wang, P. Yang, J. Yu, L. Xiao, **(2023)**. Energy consumption analysis and optimization of cold stores considering differential electricity price
 [[PDF]](files/Energy consumption analysis and optimization of cold stores.pdf)
 
-4. **J. Wang**, C. Xiong, and M. Cai **(2022)** Autonomous Transportation System collaboration mechanism based on Traffic
+4. **J. Wang**, C. Xiong, and M. Cai **(2023)** Autonomous Transportation System collaboration mechanism based on Traffic
 semantics: an implementation in Automated Vehicles Crossing an Intersection Scenario [[PDF]](files/Autonomous Transportation System collaboration mechanism based on Traffic semantics.pdf)
 
 5. **J. Wang**, Z. Cai, P. Yang, Y. Chen, B. Chen **(2022)**, An Advanced Control Strategy for Connected Autonomous Vehicles
