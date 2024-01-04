@@ -24,7 +24,7 @@ Links:  [[My blog]](https://500px.com/p/wjie3210?view=photos)  [[LinkedIn]](http
 
 Publications and Preprints
 ======
-1. **J. Wang**, Z. Li, C. Chen **(2023)**. The potential of considering social capital in emergency resource allocation [Working paper]
+1. **J. Wang**, Z. Li, C. Chen **(2023)**. The potential of considering social capital in emergency resource allocation [[Working paper]](files/Leveraging place-based social capital to decentralize emergency resource allocation.pdf)
 
 2. **J. Wang**, P. Yang, **(2023)**. An approximate dynamic programming approach for multi-period production-delivery
 scheduling of online orders with due dates
